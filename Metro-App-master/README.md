@@ -1,6 +1,6 @@
 # Metro App
 Application project for internship at Delhi Metro Rail Corporation (DMRC).
-## Current Status: Partially completed :construction_worker:
+## Current Status: Execution :construction_worker:
 
 * This application is gives the user a <strong>Crowd Efficient</strong> route as well as a <strong>TIme Efficient</strong> route.  
 * Application has a minimal user interface for ease of use.
@@ -34,4 +34,4 @@ Application project for internship at Delhi Metro Rail Corporation (DMRC).
 
 <img src="https://github.com/tarunlahrod/Metro-App/blob/master/Screenshots/Route_Activity_multiple_routes.png" width="250">
 
-Stay tuned. :smiley:
+
